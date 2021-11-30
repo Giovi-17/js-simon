@@ -24,7 +24,7 @@ for( let i = 1; i <= num; i++ ){
 }
 
 //contatore dei secondi
-let contatore = 5;
+let contatore = 30;
 
 //numeri inseriti dall'utente
 let numUtente;
